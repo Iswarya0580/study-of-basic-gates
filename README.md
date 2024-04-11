@@ -60,24 +60,28 @@ Y= A⊕B
 4.	Create nodes for inputs and outputs to generate the timing diagram.
 
 5.	For different input combinations generate the timing diagram.
-
+6.	
+# Name:Iswarya P
+# Reg no:212223230082
 
 **PROGRAM**
-![DE-A1](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/bec2509f-812b-45f4-aa69-4a014e2a783f)
-
 Program for logic gates and verify its truth table in quartus using Verilog programming
-
- Developed by: **ISWARYA P**
- RegisterNumber: **212223230082**
+![image](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/75d0a7be-3b2f-4a16-843f-75e8dfe121b5)
  
 **Logic symbol & Truthtable**
-![DE-A2](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/dc2a0ffe-540b-42f6-9fed-1aa42bd1996c)
+![image](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/c28a4f0e-32f2-4d59-b409-5b7b0a6d885b)
 
-**RTL realization Output:** 
-![DE-A3](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/d5dbe95a-b6cb-434b-845f-102043efcf0c)
+
+**RTL realization Output:**
+
+![image](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/11f0e47e-7512-465a-a2d0-33b78b467ce9)
+
 
 **RTL**
-![DE-A4](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/49cb34d5-ac40-4783-83a5-522bd8f0f22b)
+
+![image](https://github.com/Iswarya0580/study-of-basic-gates/assets/149989171/42def80d-5611-440a-b1c4-51e604b4889a)
+
+
 
 **Result:**
 Thus the different digital IC’s are studied and the truth table for different logic gates are verified.
